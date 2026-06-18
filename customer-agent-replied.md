@@ -1,7 +1,9 @@
-Email subject: Reply to ticket [#ticketid#]
+## Subject
 
-Email body:
-----------------------------------------
+Reply to ticket [#ticketid#]
+
+## Body
+
 #reply#
 
 #attachments#
