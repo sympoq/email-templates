@@ -14,7 +14,7 @@ For more details, please read more about [Email notification templates](https://
 The following examples are available:
 
 - Notifications for customers
-  - New request submitted 
+  - [New request submitted](./customer-submission.md) 
   - Agent reply
 - Notifications for agents
   - New request submitted
