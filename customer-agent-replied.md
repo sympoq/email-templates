@@ -1,5 +1,7 @@
 Email subject: Reply to ticket [#ticketid#]
 
+Email body:
+----------------------------------------
 #reply#
 
 #attachments#
