@@ -9,4 +9,4 @@ Email notification templates provide the content and structure of communications
 
 In addition to the standard email delivery, these messages are also displayed as pop-up notifications on the agents' dashboards.
 
-For more details, please read more in the official documentation about [Email notification templates](https://www.sympoq.com/docs/settings/templates/).
+For more details, please read more about [Email notification templates](https://www.sympoq.com/docs/settings/templates/) in the official documentation.
