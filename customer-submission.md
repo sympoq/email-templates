@@ -6,7 +6,7 @@ Submission confirmation [ID: #ticketid#]
 
 Hello #username#,
 
-Thank you for contacting our support department. A support ticket has now been<br>opened for your request. Your ticket number is: #ticketid#.
+Thank you for contacting our support department. A support ticket has now been<br>opened for your request. Your ticket number is: **#ticketid#**.
 
 You will be notified when a response is made by email.
 
