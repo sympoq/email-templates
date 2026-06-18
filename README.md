@@ -10,3 +10,14 @@ Email notification templates provide the content and structure of communications
 In addition to the standard email delivery, these messages are also displayed as pop-up notifications on the agents' dashboards.
 
 For more details, please read more about [Email notification templates](https://www.sympoq.com/docs/settings/templates/) in the official documentation.
+
+The following examples are available:
+
+- Notifications for customers
+  - New request submitted 
+  - Agent reply
+- Notifications for agents
+  - New request submitted
+  - Ticket assignment
+  - Customer replied
+  - Internal comment.
