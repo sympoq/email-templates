@@ -1,3 +1,9 @@
+## Subject:
+
+Submission confirmation [ID: #ticketid#]
+
+## Body:
+
 Hello #username#,
 
 Thank you for contacting our support department. A support ticket has now been<br>opened for your request. Your ticket number is: #ticketid#.
