@@ -11,9 +11,11 @@ If you think of anything else in the meantime, that you would like to add to the
 **Please ensure that you do not submit multiple or false requests as this will delay the response of your ticket**.
 
 Subject: #subject#
+
 Current status: #status#
 
 You can view the ticket at any time at the following link: #ticketurl#
 
 Sincerely,
+
 The Helpdesk Team
