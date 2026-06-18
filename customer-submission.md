@@ -1,8 +1,8 @@
-## Subject:
+## Subject
 
 Submission confirmation [ID: #ticketid#]
 
-## Body:
+## Body
 
 Hello #username#,
 
