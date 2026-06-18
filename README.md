@@ -15,7 +15,7 @@ The following examples are available:
 
 - Notifications for customers
   - [New request submitted](./customer-submission.md) 
-  - Agent reply
+  - [Agent reply](./customer-agent-replied.md)
 - Notifications for agents
   - New request submitted
   - Ticket assignment
